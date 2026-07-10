@@ -1,5 +1,3 @@
-
-
 # Hi there, I'm Deepti Sree 👋
 
 *"Every line of code I write answers one question and leaves me with ten more. That's exactly why I keep going."*
@@ -35,32 +33,13 @@ I enjoy breaking down complex concepts, rebuilding them from scratch, and docume
 
 ## 🛠 Tech Stack
 
-### Languages
+### Languages: Python, C, Java, SQL
 
-* Python
-* C
-* Java
-* SQL
+### Web Development: HTML, CSS, JavaScript, PHP
 
-### Web Development
+### Databases: MySQL, PostgreSQL, MongoDB
 
-* HTML
-* CSS
-* JavaScript
-* PHP
-
-### Databases
-
-* MySQL
-* PostgreSQL
-* MongoDB
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Ubuntu
+### Tools: Git, GitHub, VS Code, Ubuntu
 
 ---
 
