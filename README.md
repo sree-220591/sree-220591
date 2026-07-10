@@ -33,22 +33,6 @@ I enjoy breaking down complex concepts, rebuilding them from scratch, and docume
 
 ---
 
-## 💡 What Drives Me
-
-I'm fascinated by questions more than answers.
-
-Why do databases scale better than file systems?
-
-Why does one algorithm outperform another?
-
-How do quantum computers solve problems that classical computers struggle with?
-
-Every project I build is my attempt to answer one of those questions.
-
-I believe that real understanding begins when curiosity becomes stronger than the fear of not knowing.
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
@@ -95,19 +79,6 @@ A digital platform focused on simplifying hostel administration and student mana
 A disaster management portal developed to connect people with emergency resources during crises.
 
 More projects are on the way as I continue exploring new technologies and ideas.
-
----
-
-## 📚 Beyond Coding
-
-Apart from writing code, I enjoy:
-
-* Researching how technologies work beneath the surface.
-* Documenting my learning journey.
-* Exploring databases and backend systems.
-* Reading about emerging technologies, especially Quantum Computing and Artificial Intelligence.
-
-I believe that knowledge grows best when it's shared.
 
 ---
 
